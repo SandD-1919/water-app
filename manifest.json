@@ -1,0 +1,22 @@
+{
+  "name": "智能饮水助手",
+  "short_name": "饮水助手",
+  "description": "科学记录每日饮水量，健康生活每一天",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e3f2fd",
+  "theme_color": "#4fc3f7",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
